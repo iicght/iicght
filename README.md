@@ -1,0 +1,31 @@
+# Привет! Я занимаюсь аналитикой и финансами 📊
+
+Использую Python для **автоматизации сбора данных** и оптимизации рабочих процессов.
+
+---
+
+## 🛠️ Навыки и Инструменты
+
+*   **Аналитика и Финансы:** Финансовый анализ, микроэкономическое моделирование, оценка инвестиционных проектов и налогообложение.
+*   **Автоматизация и Скриптинг (Python):** Написание скриптов для парсинга данных (Web-Scraping), автоматизация рутинных задач, работа с REST API (`requests`).
+*   **Работа с данными:** Обработка и структурирование больших массивов информации (`pandas`, `numpy`).
+
+---
+
+### 📫 Контакты для связи:
+*   **LinkedIn:** [www.linkedin.com/in/ivan-chudakov-1031b7398]
+
+<!--
+**iicght/iicght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
