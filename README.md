@@ -13,4 +13,4 @@
 ---
 
 ### 📫 Контакты для связи:
-*   **[LinkedIn](www.linkedin.com/in/ivan-chudakov-1031b7398)** 
+*   [LinkedIn](https://www.linkedin.com/in/ivan-chudakov-1031b7398/)
