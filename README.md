@@ -1,4 +1,4 @@
-# Hi, I’m Alex 👋
+# Hi, I’m Ivan 👋
 
 🎓 Economics student interested in **data analytics, ML, finance, and automation**.
 I like combining economics and programming to build useful analytical tools and find insights in data.
