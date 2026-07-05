@@ -1,16 +1,41 @@
-# Занимаюсь аналитикой и финансами 📊
+# Hi, I’m Alex 👋
 
-Использую Python для **автоматизации сбора данных** и оптимизации рабочих процессов.
-
----
-
-## 🛠️ Навыки и Инструменты
-
-*   **Аналитика и Финансы:** Финансовый анализ, микроэкономическое моделирование, оценка инвестиционных проектов и налогообложение.
-*   **Автоматизация и Скриптинг (Python):** Написание скриптов для парсинга данных (Web-Scraping), автоматизация рутинных задач, работа с REST API (`requests`).
-*   **Работа с данными:** Обработка и структурирование больших массивов информации (`pandas`, `numpy`, `scikit-learn`, `statistics`, `seaborn`, `SQL`).
+🎓 Economics student interested in **data analytics, ML, finance, and automation**.
+I like combining economics and programming to build useful analytical tools and find insights in data.
 
 ---
 
-### 📫 Контакты для связи:
+## 🛠 Tech Stack
+
+**Data & ML:**
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn` · `Statistics`
+#### Including:
+`Regression` · `Classification` · `Clustering` · `Gradient Boosting` · `Feature Engineering`
+
+**Finance & Economics:**
+`Financial Analysis` · `Credit Analysis` · `Investment Modeling` · `Taxation` · `Accounting Basics`
+
+**Tools:**
+`SQL` · `MySQL` · `Jupyter Notebook` · `APIs` · `Telegram Bots`
+
+---
+
+## 🚀 Interests
+
+* 📊 Data analysis and visualization
+* 🤖 Machine learning for business and finance
+* 💸 Investment and credit analysis
+* ⚙️ Automation, parsers, and trading-related tools
+* 🧾 Economics, taxation, and financial statements
+
+---
+
+## 🎯 Focus
+
+Building practical projects that turn data into clear decisions.
+
+
+---
+
+### 📫 Contact:
 *   [LinkedIn](https://www.linkedin.com/in/ivan-chudakov-1031b7398/)
